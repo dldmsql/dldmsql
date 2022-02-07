@@ -10,6 +10,6 @@ I'm studying to become a back-end deveolper.
  </p>
 
 ## Info
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yhy5913)](https://solved.ac/yhy5913/)
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yhy5913)](https://solved.ac/yhy5913/) -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dldmsql)](https://github.com/dldmsql/github-readme-stats)
