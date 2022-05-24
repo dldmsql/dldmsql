@@ -17,13 +17,6 @@
 <p align="center">
 <a href="https://www.notion.so/f58ec80a12f547c9893fffd52747b253" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
  </p>
- 
-## Contacts
-<p align="center">
-<a href="yhy5913@naver.com" target="_blank"><img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
-<a href="yhy5913@gmail.com" target="_blank"><img src="https://img.shields.io/badge/google-4285F4?style=flat-square&logo=google&logoColor=white"/></a>
- <a href="@yes.b_22" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
- </p>
 
 ## Info
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yhy5913)](https://solved.ac/yhy5913/) -->
