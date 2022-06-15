@@ -15,7 +15,7 @@
 
 ## Link
 <p align="center">
-<a href="https://www.notion.so/f58ec80a12f547c9893fffd52747b253" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
  </p>
 
 ## Info
