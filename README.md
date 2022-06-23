@@ -1,7 +1,12 @@
-# dldmsql
-자바가 좋아
+# 😉 dldmsql
+Hi, there !!!! 
+I'm backend developer. 
 
-## Tech
+**You want to know about me?**
+
+Click [this!](https://sleepy-cartwheel-ace.notion.site/f58ec80a12f547c9893fffd52747b253)
+
+## 📚 Tech
 <p align="center">
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a> &nbsp
 <img src ="https://img.shields.io/badge/java-007396.svg?&style=flat-square&logo=java&logoColor=white"/></a> &nbsp
@@ -13,12 +18,19 @@
 <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/> &nbsp
  </p>
 
-## Link
+## ⚒️ Tools
 <p align="center">
-<a href="" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/intellij-000000?style=flat-square&logo=intellij idea&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/eclipse-2C2255?style=flat-square&logo=eclipse ide&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/android studio-3DDC84?style=flat-square&logo=android studio&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/visual studio-007ACC?style=flat-square&logo=visual studio code&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/></a> &nbsp
  </p>
 
-## Info
+<br/>
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yhy5913)](https://solved.ac/yhy5913/) -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dldmsql)](https://github.com/dldmsql/github-readme-stats)
