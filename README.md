@@ -4,7 +4,7 @@ I'm backend developer.
 
 **You want to know about me?**
 
-Click [this!](https://sleepy-cartwheel-ace.notion.site/f58ec80a12f547c9893fffd52747b253)
+Click [this!](https://dldmsql.notion.site/f58ec80a12f547c9893fffd52747b253)
 
 ## 📚 Tech
 <p align="center">
