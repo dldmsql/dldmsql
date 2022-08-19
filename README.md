@@ -11,6 +11,8 @@ Click [this!](https://dldmsql.notion.site/f58ec80a12f547c9893fffd52747b253)
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a> &nbsp
 <img src ="https://img.shields.io/badge/java-007396.svg?&style=flat-square&logo=java&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/MyBatis-E34F26?style=flat-square&logo=MyBatis&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Nodejs-339933?style=flat-square&logo=Nodejs&logoColor=white"/> &nbsp
