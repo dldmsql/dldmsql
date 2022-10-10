@@ -1,6 +1,6 @@
 # 😉 dldmsql
 Hi, there !!!! 
-I'm backend developer. 
+I'm software developer. 
 
 **You want to know about me?**
 
