@@ -1,6 +1,8 @@
 # 😉 dldmsql
 
-Hi, there! I'm dldmsql, a Software Developer.
+안녕하세요. 소프트웨어 개발자 dldmsql 입니다.
+
+더 많은 내용을 보고 싶으시면, [여기](https://dldmsql.notion.site/SERVER-DEVELOPER-f58ec80a12f547c9893fffd52747b253)를 확인해주세요.
 
 ## ☕️ History
 - 명지대학교 융합소프트웨어학부 응용소프트웨어전공 ( 2019.03 ~ 2023.02 )
