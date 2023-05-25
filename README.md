@@ -1,26 +1,32 @@
-# 😉 dldmsql
 
-안녕하세요. 소프트웨어 개발자 dldmsql 입니다.
+[💼](https://dldmsql.notion.site/SERVER-DEVELOPER-f58ec80a12f547c9893fffd52747b253) 소개 페이지 <br/>
+[🔗](yhy5913@gmail.com) 이메일 <br/>
+🏫 명지대학교 융합소프트웨어학부 응용소프트웨어전공 2023.02 졸업 <br/>
 
-더 많은 내용을 보고 싶으시면, [여기](https://dldmsql.notion.site/SERVER-DEVELOPER-f58ec80a12f547c9893fffd52747b253)를 확인해주세요.
+## Projects
 
-## ☕️ History
-- 명지대학교 융합소프트웨어학부 응용소프트웨어전공 ( 2019.03 ~ 2023.02 )
-- 공개 SW 공모전 - 식물 자동 물주기 앱 개발 ( 2020.07 ~ 2020.10 )
-- 구 신동아화재 보험사 시스템 개발 ( 2021.03 ~ 2021.12 )
-- 서울시 공공자전거 데이터 분석 및 모델링 ( 2021.12 )
-- 경험 공유 플랫폼, 그루터기 개발 ( 2022.03 ~ 2022.06 )
-- 명지대학교 백엔드 스터디 ( 2022.06 ~ 2022.08 )
-- IT 경영 학회 큐시즘 26기 개발팀 ( 2022.08 ~ 2022.11 )
-- 큐시즘 백엔드 스터디 ( 2022.09 ~ 2022.11 )
-- 비즈테크 아이 개발/클라우드인프라팀 인턴십 ( 2022.09 ~ 2022.12 )
-- (주) 파블로항공 X 큐시즘 26기 기업 프로젝트 - 사용자 인증 기반 도어락 시스템 개발 ( 2022.09 )
-- 빈 집 거래 중개 플랫폼, Du-aily ( 2022.10 ~ 2022.11 )
-- 소비 기록 습관 어플, POME ( 2022.12 ~ 진행중 )
-- 명지대 학식을 책임지다, 명식이 ( 2022.12 ~ 진행중 )
-- 듀얼 라이프 커뮤니티 플랫폼, 주말의집 ( 2023.01 ~ 진행중 )
+|날짜|단체|서비스명|
+|--|--|--|
+|2020.07 - 2020.10 | 공개 SW 공모전 | 식물 자동 물주기 앱 서비스 개발|
+|2021.03 - 2021.12 | 분산프로그래밍 1,2 | 구 신동아화재 보험사 시스템 개발|
+|2021.12           | 비즈니스모델링 1,2 | 서울시 공공자전거 데이터 분석 및 수요 예측 모델링|
+|2022.03 - 2022.06 | 명지대학교 졸업 프로젝트 ( 그루터기 ) | 경험 공유 플랫폼 서비스 개발|
+|2022.09           | 큐시즘 x 파블로항공 | 사용자 인증 기반 도어락 시스템 개발 |
+|2022.10 - 2022.11 | 구해조홈즈 | 빈 집 거래 중개 플랫폼 개발|
+|2022.12 - ing     | POME | 사용자 소비 습관 기록 앱 서비스 개발 |
+|2022.12 - ing     | 명식이 | 명지대학교 학식 앱 서비스 개발 |
+|2023.01 - ing     | 오도리 | 듀얼 라이프 커뮤니티 플랫폼 개발 |
+|2023.05 - ing.    | 오도리 | 테크 블로그 플랫폼 개발 |
 
-## 📚 Tech
+## Activity
+- 2021.03 - 2022.06 명지대학교 융합소프트웨어 응용소프트웨어전공 조교
+- 2022.06 - 2022.08 명지대학교 융합소프트웨어 백엔드 스터디 
+- 2022.08 - 2022.11 IT 경영학회 큐시즘 26기 개발팀
+- 2022.09 - 2022.11 큐시즘 백엔드 스터디
+- 2022.09 - 2022.12 비즈테크아이 개발/클라우드인프라팀 인턴십
+
+
+## Tech
 <div align="center">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat-square&logo=Springboot&logoColor=white"/></a> &nbsp
@@ -38,7 +44,7 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> &nbsp
  </div>
 
-## ⚒️ Tools
+## Tools
 <div align="center">
 <img src="https://img.shields.io/badge/intellij-000000?style=flat-square&logo=intellij idea&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/eclipse-2C2255?style=flat-square&logo=eclipse ide&logoColor=white"/></a> &nbsp
@@ -55,7 +61,7 @@
  </div>
 
 <br/>
-<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yhy5913)](https://solved.ac/yhy5913/) -->
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dldmsql)](https://github.com/dldmsql/github-readme-stats)
 
